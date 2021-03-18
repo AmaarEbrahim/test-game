@@ -15,5 +15,5 @@ Players.PlayerAdded.Connect((plr: Player) => {
 })
 
 ReplicatedStorage.Stuff.Blocky.AncestryChanged.Connect(() => {
-
+ 
 }) 
