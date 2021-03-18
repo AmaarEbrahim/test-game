@@ -12,5 +12,8 @@
   "devDependencies": {
     "@rbxts/compiler-types": "^1.0.0-types.0",
     "@rbxts/types": "^1.0.464"
+  },
+  "dependencies": {
+    "@rbxts/services": "^1.1.4"
   }
 }
