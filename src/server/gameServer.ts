@@ -8,7 +8,7 @@ export class gameServer {
     private gameMap: undefined;
 
     constructor(length: number, players: Map<Player, boolean>) {
-        this.timelength = 5;
+        this.timelength = 5; // :O
         this.players = players;
     }
 
