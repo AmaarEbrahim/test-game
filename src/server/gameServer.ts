@@ -10,6 +10,7 @@ export class gameServer {
     constructor(length: number, players: Map<Player, boolean>) {
         this.timelength = 5; // :O
         this.players = players;
+        print("helo")
     }
 
     public removePlayerFromRound(plr: Player): boolean {
