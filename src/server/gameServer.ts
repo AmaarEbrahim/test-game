@@ -1,3 +1,6 @@
+import { ReplicatedStorage } from "@rbxts/services";
+import { a } from "shared/module"
+
 export class gameServer {
 
     private timelength: number;
@@ -26,4 +29,24 @@ export class gameServer {
         
     }
 
+}
+
+
+
+
+ReplicatedStorage.Event.Event.Connect((enumval: a) => {
+    if (enumval === a.Else) {
+        print("yay");
+    } else {
+        print("nay")
+    }
+
+})
+
+
+let c  = {}
+
+
+let values = {
+    val: c
 }

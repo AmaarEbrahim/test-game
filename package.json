@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@rbxts/compiler-types": "^1.0.0-types.0",
+    "@rbxts/testez": "^0.3.1-ts.6",
     "@rbxts/types": "^1.0.464"
   },
   "dependencies": {

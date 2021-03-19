@@ -2,6 +2,8 @@ interface ReplicatedStorage extends Instance {
 	TS: Folder & {
 		module: ModuleScript;
 	};
+	RemoteFunction: RemoteFunction;
+	Event: BindableEvent;
 	Stuff: Folder & {
 		Blocky: Part;
 		Texture: Texture;
