@@ -21,6 +21,7 @@ do
 		print("helo")
 		print("sp")
 		print("wow")
+		print("whoa")
 	end
 	function gameServer:removePlayerFromRound(plr)
 		local _0 = self.players

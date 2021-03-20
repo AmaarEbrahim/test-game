@@ -13,6 +13,7 @@ export class gameServer {
         print("helo")
         print("sp")
         print("wow")
+        print("whoa")
         
     }
 
