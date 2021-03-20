@@ -11,6 +11,9 @@ export class gameServer {
         this.timelength = 5; // :O
         this.players = players;
         print("helo")
+        print("sp")
+        print("wow")
+        
     }
 
     public removePlayerFromRound(plr: Player): boolean {

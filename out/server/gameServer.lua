@@ -16,8 +16,11 @@ do
 		return self
 	end
 	function gameServer:constructor(length, players)
-		self.timelength = length
+		self.timelength = 5
 		self.players = players
+		print("helo")
+		print("sp")
+		print("wow")
 	end
 	function gameServer:removePlayerFromRound(plr)
 		local _0 = self.players

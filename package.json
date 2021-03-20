@@ -15,6 +15,7 @@
     "@rbxts/types": "^1.0.464"
   },
   "dependencies": {
-    "@rbxts/services": "^1.1.4"
+    "@rbxts/services": "^1.1.4",
+    "roblox-ts": "^1.0.0"
   }
 }
