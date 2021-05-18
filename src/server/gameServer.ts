@@ -29,6 +29,8 @@ export class gameServer {
 
     print("second")
 
+    print("third")
+
     /**
      * startGame
      */
