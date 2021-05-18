@@ -31,6 +31,8 @@ export class gameServer {
 
     print("third")
 
+    print('fourth')
+
     /**
      * startGame
      */
