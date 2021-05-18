@@ -25,6 +25,8 @@ export class gameServer {
         return false;
     }
 
+    print("hey")
+
     /**
      * startGame
      */
